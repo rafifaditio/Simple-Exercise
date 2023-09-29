@@ -1,0 +1,676 @@
+[2023-09-26T07:05:25.543+0000] {processor.py:153} INFO - Started process (PID=185) to work on /opt/airflow/dags/pg2es.py
+[2023-09-26T07:05:25.545+0000] {processor.py:640} INFO - Processing file /opt/airflow/dags/pg2es.py for tasks to queue
+[2023-09-26T07:05:25.546+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:05:25.546+0000] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:05:25.972+0000] {processor.py:650} INFO - DAG(s) dict_keys(['Test_postgres2es']) retrieved from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:05:26.081+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:05:26.081+0000] {manager.py:508} INFO - Created Permission View: can edit on DAG:Test_postgres2es
+[2023-09-26T07:05:26.086+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:05:26.086+0000] {manager.py:508} INFO - Created Permission View: can read on DAG:Test_postgres2es
+[2023-09-26T07:05:26.090+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:05:26.090+0000] {manager.py:508} INFO - Created Permission View: can delete on DAG:Test_postgres2es
+[2023-09-26T07:05:26.091+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:05:26.091+0000] {dag.py:2429} INFO - Sync 1 DAGs
+[2023-09-26T07:05:26.096+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:05:26.096+0000] {dag.py:2448} INFO - Creating ORM DAG for Test_postgres2es
+[2023-09-26T07:05:26.103+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:05:26.103+0000] {dag.py:2981} INFO - Setting next_dagrun for Test_postgres2es to 2023-09-25T00:00:00+00:00, run_after=2023-09-26T00:00:00+00:00
+[2023-09-26T07:05:26.111+0000] {processor.py:161} INFO - Processing /opt/airflow/dags/pg2es.py took 0.573 seconds
+[2023-09-26T07:05:56.324+0000] {processor.py:153} INFO - Started process (PID=197) to work on /opt/airflow/dags/pg2es.py
+[2023-09-26T07:05:56.326+0000] {processor.py:640} INFO - Processing file /opt/airflow/dags/pg2es.py for tasks to queue
+[2023-09-26T07:05:56.328+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:05:56.328+0000] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:05:56.853+0000] {processor.py:650} INFO - DAG(s) dict_keys(['Test_postgres2es']) retrieved from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:05:56.874+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:05:56.874+0000] {dag.py:2429} INFO - Sync 1 DAGs
+[2023-09-26T07:05:56.887+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:05:56.887+0000] {dag.py:2981} INFO - Setting next_dagrun for Test_postgres2es to 2023-09-25T00:00:00+00:00, run_after=2023-09-26T00:00:00+00:00
+[2023-09-26T07:05:56.894+0000] {processor.py:161} INFO - Processing /opt/airflow/dags/pg2es.py took 0.576 seconds
+[2023-09-26T07:06:27.073+0000] {processor.py:153} INFO - Started process (PID=209) to work on /opt/airflow/dags/pg2es.py
+[2023-09-26T07:06:27.076+0000] {processor.py:640} INFO - Processing file /opt/airflow/dags/pg2es.py for tasks to queue
+[2023-09-26T07:06:27.077+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:06:27.077+0000] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:06:27.397+0000] {processor.py:650} INFO - DAG(s) dict_keys(['Test_postgres2es']) retrieved from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:06:27.415+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:06:27.414+0000] {dag.py:2429} INFO - Sync 1 DAGs
+[2023-09-26T07:06:27.428+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:06:27.428+0000] {dag.py:2981} INFO - Setting next_dagrun for Test_postgres2es to 2023-09-25T00:00:00+00:00, run_after=2023-09-26T00:00:00+00:00
+[2023-09-26T07:06:27.443+0000] {processor.py:161} INFO - Processing /opt/airflow/dags/pg2es.py took 0.376 seconds
+[2023-09-26T07:06:57.656+0000] {processor.py:153} INFO - Started process (PID=221) to work on /opt/airflow/dags/pg2es.py
+[2023-09-26T07:06:57.659+0000] {processor.py:640} INFO - Processing file /opt/airflow/dags/pg2es.py for tasks to queue
+[2023-09-26T07:06:57.660+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:06:57.660+0000] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:06:57.981+0000] {processor.py:650} INFO - DAG(s) dict_keys(['Test_postgres2es']) retrieved from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:06:57.998+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:06:57.998+0000] {dag.py:2429} INFO - Sync 1 DAGs
+[2023-09-26T07:06:58.011+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:06:58.011+0000] {dag.py:2981} INFO - Setting next_dagrun for Test_postgres2es to 2023-09-25T00:00:00+00:00, run_after=2023-09-26T00:00:00+00:00
+[2023-09-26T07:06:58.019+0000] {processor.py:161} INFO - Processing /opt/airflow/dags/pg2es.py took 0.369 seconds
+[2023-09-26T07:07:28.264+0000] {processor.py:153} INFO - Started process (PID=233) to work on /opt/airflow/dags/pg2es.py
+[2023-09-26T07:07:28.267+0000] {processor.py:640} INFO - Processing file /opt/airflow/dags/pg2es.py for tasks to queue
+[2023-09-26T07:07:28.268+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:07:28.268+0000] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:07:28.712+0000] {processor.py:650} INFO - DAG(s) dict_keys(['Test_postgres2es']) retrieved from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:07:28.733+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:07:28.732+0000] {dag.py:2429} INFO - Sync 1 DAGs
+[2023-09-26T07:07:28.752+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:07:28.752+0000] {dag.py:2981} INFO - Setting next_dagrun for Test_postgres2es to 2023-09-25T00:00:00+00:00, run_after=2023-09-26T00:00:00+00:00
+[2023-09-26T07:07:28.764+0000] {processor.py:161} INFO - Processing /opt/airflow/dags/pg2es.py took 0.505 seconds
+[2023-09-26T07:07:58.929+0000] {processor.py:153} INFO - Started process (PID=245) to work on /opt/airflow/dags/pg2es.py
+[2023-09-26T07:07:58.931+0000] {processor.py:640} INFO - Processing file /opt/airflow/dags/pg2es.py for tasks to queue
+[2023-09-26T07:07:58.932+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:07:58.932+0000] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:07:59.152+0000] {processor.py:650} INFO - DAG(s) dict_keys(['Test_postgres2es']) retrieved from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:07:59.168+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:07:59.168+0000] {dag.py:2429} INFO - Sync 1 DAGs
+[2023-09-26T07:07:59.180+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:07:59.180+0000] {dag.py:2981} INFO - Setting next_dagrun for Test_postgres2es to 2023-09-25T00:00:00+00:00, run_after=2023-09-26T00:00:00+00:00
+[2023-09-26T07:07:59.186+0000] {processor.py:161} INFO - Processing /opt/airflow/dags/pg2es.py took 0.260 seconds
+[2023-09-26T07:08:29.705+0000] {processor.py:153} INFO - Started process (PID=257) to work on /opt/airflow/dags/pg2es.py
+[2023-09-26T07:08:29.708+0000] {processor.py:640} INFO - Processing file /opt/airflow/dags/pg2es.py for tasks to queue
+[2023-09-26T07:08:29.709+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:08:29.709+0000] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:08:30.183+0000] {processor.py:650} INFO - DAG(s) dict_keys(['Test_postgres2es']) retrieved from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:08:30.207+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:08:30.206+0000] {dag.py:2429} INFO - Sync 1 DAGs
+[2023-09-26T07:08:30.220+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:08:30.220+0000] {dag.py:2981} INFO - Setting next_dagrun for Test_postgres2es to 2023-09-25T00:00:00+00:00, run_after=2023-09-26T00:00:00+00:00
+[2023-09-26T07:08:30.226+0000] {processor.py:161} INFO - Processing /opt/airflow/dags/pg2es.py took 0.528 seconds
+[2023-09-26T07:09:00.479+0000] {processor.py:153} INFO - Started process (PID=269) to work on /opt/airflow/dags/pg2es.py
+[2023-09-26T07:09:00.483+0000] {processor.py:640} INFO - Processing file /opt/airflow/dags/pg2es.py for tasks to queue
+[2023-09-26T07:09:00.484+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:09:00.484+0000] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:09:00.957+0000] {processor.py:650} INFO - DAG(s) dict_keys(['Test_postgres2es']) retrieved from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:09:00.993+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:09:00.992+0000] {dag.py:2429} INFO - Sync 1 DAGs
+[2023-09-26T07:09:01.005+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:09:01.005+0000] {dag.py:2981} INFO - Setting next_dagrun for Test_postgres2es to 2023-09-25T00:00:00+00:00, run_after=2023-09-26T00:00:00+00:00
+[2023-09-26T07:09:01.011+0000] {processor.py:161} INFO - Processing /opt/airflow/dags/pg2es.py took 0.538 seconds
+[2023-09-26T07:09:31.254+0000] {processor.py:153} INFO - Started process (PID=281) to work on /opt/airflow/dags/pg2es.py
+[2023-09-26T07:09:31.255+0000] {processor.py:640} INFO - Processing file /opt/airflow/dags/pg2es.py for tasks to queue
+[2023-09-26T07:09:31.257+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:09:31.257+0000] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:09:31.755+0000] {processor.py:650} INFO - DAG(s) dict_keys(['Test_postgres2es']) retrieved from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:09:31.778+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:09:31.778+0000] {dag.py:2429} INFO - Sync 1 DAGs
+[2023-09-26T07:09:31.790+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:09:31.790+0000] {dag.py:2981} INFO - Setting next_dagrun for Test_postgres2es to 2023-09-25T00:00:00+00:00, run_after=2023-09-26T00:00:00+00:00
+[2023-09-26T07:09:31.798+0000] {processor.py:161} INFO - Processing /opt/airflow/dags/pg2es.py took 0.549 seconds
+[2023-09-26T07:10:01.988+0000] {processor.py:153} INFO - Started process (PID=293) to work on /opt/airflow/dags/pg2es.py
+[2023-09-26T07:10:01.992+0000] {processor.py:640} INFO - Processing file /opt/airflow/dags/pg2es.py for tasks to queue
+[2023-09-26T07:10:01.994+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:10:01.994+0000] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:10:02.481+0000] {processor.py:650} INFO - DAG(s) dict_keys(['Test_postgres2es']) retrieved from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:10:02.504+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:10:02.503+0000] {dag.py:2429} INFO - Sync 1 DAGs
+[2023-09-26T07:10:02.520+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:10:02.520+0000] {dag.py:2981} INFO - Setting next_dagrun for Test_postgres2es to 2023-09-25T00:00:00+00:00, run_after=2023-09-26T00:00:00+00:00
+[2023-09-26T07:10:02.529+0000] {processor.py:161} INFO - Processing /opt/airflow/dags/pg2es.py took 0.549 seconds
+[2023-09-26T07:10:32.849+0000] {processor.py:153} INFO - Started process (PID=305) to work on /opt/airflow/dags/pg2es.py
+[2023-09-26T07:10:32.853+0000] {processor.py:640} INFO - Processing file /opt/airflow/dags/pg2es.py for tasks to queue
+[2023-09-26T07:10:32.857+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:10:32.857+0000] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:10:33.365+0000] {processor.py:650} INFO - DAG(s) dict_keys(['Test_postgres2es']) retrieved from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:10:33.394+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:10:33.394+0000] {dag.py:2429} INFO - Sync 1 DAGs
+[2023-09-26T07:10:33.407+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:10:33.407+0000] {dag.py:2981} INFO - Setting next_dagrun for Test_postgres2es to 2023-09-25T00:00:00+00:00, run_after=2023-09-26T00:00:00+00:00
+[2023-09-26T07:10:33.419+0000] {processor.py:161} INFO - Processing /opt/airflow/dags/pg2es.py took 0.576 seconds
+[2023-09-26T07:11:03.664+0000] {processor.py:153} INFO - Started process (PID=317) to work on /opt/airflow/dags/pg2es.py
+[2023-09-26T07:11:03.666+0000] {processor.py:640} INFO - Processing file /opt/airflow/dags/pg2es.py for tasks to queue
+[2023-09-26T07:11:03.668+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:11:03.668+0000] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:11:04.169+0000] {processor.py:650} INFO - DAG(s) dict_keys(['Test_postgres2es']) retrieved from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:11:04.204+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:11:04.203+0000] {dag.py:2429} INFO - Sync 1 DAGs
+[2023-09-26T07:11:04.217+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:11:04.217+0000] {dag.py:2981} INFO - Setting next_dagrun for Test_postgres2es to 2023-09-25T00:00:00+00:00, run_after=2023-09-26T00:00:00+00:00
+[2023-09-26T07:11:04.225+0000] {processor.py:161} INFO - Processing /opt/airflow/dags/pg2es.py took 0.567 seconds
+[2023-09-26T07:11:34.492+0000] {processor.py:153} INFO - Started process (PID=335) to work on /opt/airflow/dags/pg2es.py
+[2023-09-26T07:11:34.494+0000] {processor.py:640} INFO - Processing file /opt/airflow/dags/pg2es.py for tasks to queue
+[2023-09-26T07:11:34.495+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:11:34.495+0000] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:11:34.966+0000] {processor.py:650} INFO - DAG(s) dict_keys(['Test_postgres2es']) retrieved from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:11:34.985+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:11:34.985+0000] {dag.py:2429} INFO - Sync 1 DAGs
+[2023-09-26T07:11:34.996+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:11:34.996+0000] {dag.py:2981} INFO - Setting next_dagrun for Test_postgres2es to 2023-09-25T00:00:00+00:00, run_after=2023-09-26T00:00:00+00:00
+[2023-09-26T07:11:35.002+0000] {processor.py:161} INFO - Processing /opt/airflow/dags/pg2es.py took 0.515 seconds
+[2023-09-26T07:12:05.257+0000] {processor.py:153} INFO - Started process (PID=347) to work on /opt/airflow/dags/pg2es.py
+[2023-09-26T07:12:05.260+0000] {processor.py:640} INFO - Processing file /opt/airflow/dags/pg2es.py for tasks to queue
+[2023-09-26T07:12:05.261+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:12:05.261+0000] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:12:05.708+0000] {processor.py:650} INFO - DAG(s) dict_keys(['Test_postgres2es']) retrieved from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:12:05.726+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:12:05.726+0000] {dag.py:2429} INFO - Sync 1 DAGs
+[2023-09-26T07:12:05.739+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:12:05.739+0000] {dag.py:2981} INFO - Setting next_dagrun for Test_postgres2es to 2023-09-25T00:00:00+00:00, run_after=2023-09-26T00:00:00+00:00
+[2023-09-26T07:12:05.746+0000] {processor.py:161} INFO - Processing /opt/airflow/dags/pg2es.py took 0.496 seconds
+[2023-09-26T07:12:35.996+0000] {processor.py:153} INFO - Started process (PID=359) to work on /opt/airflow/dags/pg2es.py
+[2023-09-26T07:12:35.997+0000] {processor.py:640} INFO - Processing file /opt/airflow/dags/pg2es.py for tasks to queue
+[2023-09-26T07:12:35.999+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:12:35.999+0000] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:12:36.426+0000] {processor.py:650} INFO - DAG(s) dict_keys(['Test_postgres2es']) retrieved from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:12:36.448+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:12:36.447+0000] {dag.py:2429} INFO - Sync 1 DAGs
+[2023-09-26T07:12:36.462+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:12:36.462+0000] {dag.py:2981} INFO - Setting next_dagrun for Test_postgres2es to 2023-09-25T00:00:00+00:00, run_after=2023-09-26T00:00:00+00:00
+[2023-09-26T07:12:36.468+0000] {processor.py:161} INFO - Processing /opt/airflow/dags/pg2es.py took 0.478 seconds
+[2023-09-26T07:13:06.690+0000] {processor.py:153} INFO - Started process (PID=371) to work on /opt/airflow/dags/pg2es.py
+[2023-09-26T07:13:06.692+0000] {processor.py:640} INFO - Processing file /opt/airflow/dags/pg2es.py for tasks to queue
+[2023-09-26T07:13:06.693+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:13:06.693+0000] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:13:07.156+0000] {processor.py:650} INFO - DAG(s) dict_keys(['Test_postgres2es']) retrieved from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:13:07.180+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:13:07.180+0000] {dag.py:2429} INFO - Sync 1 DAGs
+[2023-09-26T07:13:07.194+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:13:07.194+0000] {dag.py:2981} INFO - Setting next_dagrun for Test_postgres2es to 2023-09-25T00:00:00+00:00, run_after=2023-09-26T00:00:00+00:00
+[2023-09-26T07:13:07.201+0000] {processor.py:161} INFO - Processing /opt/airflow/dags/pg2es.py took 0.520 seconds
+[2023-09-26T07:13:37.479+0000] {processor.py:153} INFO - Started process (PID=383) to work on /opt/airflow/dags/pg2es.py
+[2023-09-26T07:13:37.481+0000] {processor.py:640} INFO - Processing file /opt/airflow/dags/pg2es.py for tasks to queue
+[2023-09-26T07:13:37.482+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:13:37.482+0000] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:13:37.985+0000] {processor.py:650} INFO - DAG(s) dict_keys(['Test_postgres2es']) retrieved from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:13:38.006+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:13:38.006+0000] {dag.py:2429} INFO - Sync 1 DAGs
+[2023-09-26T07:13:38.018+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:13:38.018+0000] {dag.py:2981} INFO - Setting next_dagrun for Test_postgres2es to 2023-09-25T00:00:00+00:00, run_after=2023-09-26T00:00:00+00:00
+[2023-09-26T07:13:38.025+0000] {processor.py:161} INFO - Processing /opt/airflow/dags/pg2es.py took 0.553 seconds
+[2023-09-26T07:14:08.248+0000] {processor.py:153} INFO - Started process (PID=395) to work on /opt/airflow/dags/pg2es.py
+[2023-09-26T07:14:08.251+0000] {processor.py:640} INFO - Processing file /opt/airflow/dags/pg2es.py for tasks to queue
+[2023-09-26T07:14:08.252+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:14:08.252+0000] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:14:08.691+0000] {processor.py:650} INFO - DAG(s) dict_keys(['Test_postgres2es']) retrieved from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:14:08.723+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:14:08.723+0000] {dag.py:2429} INFO - Sync 1 DAGs
+[2023-09-26T07:14:08.735+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:14:08.735+0000] {dag.py:2981} INFO - Setting next_dagrun for Test_postgres2es to 2023-09-25T00:00:00+00:00, run_after=2023-09-26T00:00:00+00:00
+[2023-09-26T07:14:08.742+0000] {processor.py:161} INFO - Processing /opt/airflow/dags/pg2es.py took 0.512 seconds
+[2023-09-26T07:14:38.995+0000] {processor.py:153} INFO - Started process (PID=407) to work on /opt/airflow/dags/pg2es.py
+[2023-09-26T07:14:38.996+0000] {processor.py:640} INFO - Processing file /opt/airflow/dags/pg2es.py for tasks to queue
+[2023-09-26T07:14:38.997+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:14:38.997+0000] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:14:39.441+0000] {processor.py:650} INFO - DAG(s) dict_keys(['Test_postgres2es']) retrieved from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:14:39.457+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:14:39.457+0000] {dag.py:2429} INFO - Sync 1 DAGs
+[2023-09-26T07:14:39.482+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:14:39.482+0000] {dag.py:2981} INFO - Setting next_dagrun for Test_postgres2es to 2023-09-25T00:00:00+00:00, run_after=2023-09-26T00:00:00+00:00
+[2023-09-26T07:14:39.491+0000] {processor.py:161} INFO - Processing /opt/airflow/dags/pg2es.py took 0.500 seconds
+[2023-09-26T07:15:09.716+0000] {processor.py:153} INFO - Started process (PID=419) to work on /opt/airflow/dags/pg2es.py
+[2023-09-26T07:15:09.718+0000] {processor.py:640} INFO - Processing file /opt/airflow/dags/pg2es.py for tasks to queue
+[2023-09-26T07:15:09.719+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:15:09.719+0000] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:15:10.197+0000] {processor.py:650} INFO - DAG(s) dict_keys(['Test_postgres2es']) retrieved from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:15:10.216+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:15:10.215+0000] {dag.py:2429} INFO - Sync 1 DAGs
+[2023-09-26T07:15:10.228+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:15:10.228+0000] {dag.py:2981} INFO - Setting next_dagrun for Test_postgres2es to 2023-09-25T00:00:00+00:00, run_after=2023-09-26T00:00:00+00:00
+[2023-09-26T07:15:10.234+0000] {processor.py:161} INFO - Processing /opt/airflow/dags/pg2es.py took 0.525 seconds
+[2023-09-26T07:15:40.488+0000] {processor.py:153} INFO - Started process (PID=431) to work on /opt/airflow/dags/pg2es.py
+[2023-09-26T07:15:40.491+0000] {processor.py:640} INFO - Processing file /opt/airflow/dags/pg2es.py for tasks to queue
+[2023-09-26T07:15:40.492+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:15:40.492+0000] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:15:40.935+0000] {processor.py:650} INFO - DAG(s) dict_keys(['Test_postgres2es']) retrieved from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:15:40.959+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:15:40.959+0000] {dag.py:2429} INFO - Sync 1 DAGs
+[2023-09-26T07:15:40.972+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:15:40.972+0000] {dag.py:2981} INFO - Setting next_dagrun for Test_postgres2es to 2023-09-25T00:00:00+00:00, run_after=2023-09-26T00:00:00+00:00
+[2023-09-26T07:15:40.978+0000] {processor.py:161} INFO - Processing /opt/airflow/dags/pg2es.py took 0.498 seconds
+[2023-09-26T07:16:11.180+0000] {processor.py:153} INFO - Started process (PID=443) to work on /opt/airflow/dags/pg2es.py
+[2023-09-26T07:16:11.183+0000] {processor.py:640} INFO - Processing file /opt/airflow/dags/pg2es.py for tasks to queue
+[2023-09-26T07:16:11.186+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:16:11.186+0000] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:16:11.610+0000] {processor.py:650} INFO - DAG(s) dict_keys(['Test_postgres2es']) retrieved from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:16:11.654+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:16:11.654+0000] {dag.py:2429} INFO - Sync 1 DAGs
+[2023-09-26T07:16:11.688+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:16:11.687+0000] {dag.py:2981} INFO - Setting next_dagrun for Test_postgres2es to 2023-09-25T00:00:00+00:00, run_after=2023-09-26T00:00:00+00:00
+[2023-09-26T07:16:11.700+0000] {processor.py:161} INFO - Processing /opt/airflow/dags/pg2es.py took 0.537 seconds
+[2023-09-26T07:16:41.943+0000] {processor.py:153} INFO - Started process (PID=483) to work on /opt/airflow/dags/pg2es.py
+[2023-09-26T07:16:41.944+0000] {processor.py:640} INFO - Processing file /opt/airflow/dags/pg2es.py for tasks to queue
+[2023-09-26T07:16:41.945+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:16:41.945+0000] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:16:42.455+0000] {processor.py:650} INFO - DAG(s) dict_keys(['Test_postgres2es']) retrieved from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:16:42.476+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:16:42.476+0000] {dag.py:2429} INFO - Sync 1 DAGs
+[2023-09-26T07:16:42.488+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:16:42.488+0000] {dag.py:2981} INFO - Setting next_dagrun for Test_postgres2es to 2023-09-25T00:00:00+00:00, run_after=2023-09-26T00:00:00+00:00
+[2023-09-26T07:16:42.494+0000] {processor.py:161} INFO - Processing /opt/airflow/dags/pg2es.py took 0.557 seconds
+[2023-09-26T07:17:12.717+0000] {processor.py:153} INFO - Started process (PID=495) to work on /opt/airflow/dags/pg2es.py
+[2023-09-26T07:17:12.721+0000] {processor.py:640} INFO - Processing file /opt/airflow/dags/pg2es.py for tasks to queue
+[2023-09-26T07:17:12.722+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:17:12.722+0000] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:17:13.285+0000] {processor.py:650} INFO - DAG(s) dict_keys(['Test_postgres2es']) retrieved from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:17:13.339+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:17:13.339+0000] {dag.py:2429} INFO - Sync 1 DAGs
+[2023-09-26T07:17:13.368+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:17:13.368+0000] {dag.py:2981} INFO - Setting next_dagrun for Test_postgres2es to 2023-09-25T00:00:00+00:00, run_after=2023-09-26T00:00:00+00:00
+[2023-09-26T07:17:13.381+0000] {processor.py:161} INFO - Processing /opt/airflow/dags/pg2es.py took 0.688 seconds
+[2023-09-26T07:17:43.671+0000] {processor.py:153} INFO - Started process (PID=507) to work on /opt/airflow/dags/pg2es.py
+[2023-09-26T07:17:43.673+0000] {processor.py:640} INFO - Processing file /opt/airflow/dags/pg2es.py for tasks to queue
+[2023-09-26T07:17:43.674+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:17:43.674+0000] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:17:44.138+0000] {processor.py:650} INFO - DAG(s) dict_keys(['Test_postgres2es']) retrieved from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:17:44.170+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:17:44.170+0000] {dag.py:2429} INFO - Sync 1 DAGs
+[2023-09-26T07:17:44.183+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:17:44.183+0000] {dag.py:2981} INFO - Setting next_dagrun for Test_postgres2es to 2023-09-25T00:00:00+00:00, run_after=2023-09-26T00:00:00+00:00
+[2023-09-26T07:17:44.195+0000] {processor.py:161} INFO - Processing /opt/airflow/dags/pg2es.py took 0.530 seconds
+[2023-09-26T07:18:14.417+0000] {processor.py:153} INFO - Started process (PID=519) to work on /opt/airflow/dags/pg2es.py
+[2023-09-26T07:18:14.422+0000] {processor.py:640} INFO - Processing file /opt/airflow/dags/pg2es.py for tasks to queue
+[2023-09-26T07:18:14.423+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:18:14.423+0000] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:18:14.908+0000] {processor.py:650} INFO - DAG(s) dict_keys(['Test_postgres2es']) retrieved from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:18:14.934+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:18:14.934+0000] {dag.py:2429} INFO - Sync 1 DAGs
+[2023-09-26T07:18:14.959+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:18:14.959+0000] {dag.py:2981} INFO - Setting next_dagrun for Test_postgres2es to 2023-09-25T00:00:00+00:00, run_after=2023-09-26T00:00:00+00:00
+[2023-09-26T07:18:14.966+0000] {processor.py:161} INFO - Processing /opt/airflow/dags/pg2es.py took 0.577 seconds
+[2023-09-26T07:18:45.214+0000] {processor.py:153} INFO - Started process (PID=531) to work on /opt/airflow/dags/pg2es.py
+[2023-09-26T07:18:45.216+0000] {processor.py:640} INFO - Processing file /opt/airflow/dags/pg2es.py for tasks to queue
+[2023-09-26T07:18:45.217+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:18:45.217+0000] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:18:45.681+0000] {processor.py:650} INFO - DAG(s) dict_keys(['Test_postgres2es']) retrieved from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:18:45.707+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:18:45.707+0000] {dag.py:2429} INFO - Sync 1 DAGs
+[2023-09-26T07:18:45.733+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:18:45.733+0000] {dag.py:2981} INFO - Setting next_dagrun for Test_postgres2es to 2023-09-25T00:00:00+00:00, run_after=2023-09-26T00:00:00+00:00
+[2023-09-26T07:18:45.742+0000] {processor.py:161} INFO - Processing /opt/airflow/dags/pg2es.py took 0.535 seconds
+[2023-09-26T07:19:16.001+0000] {processor.py:153} INFO - Started process (PID=543) to work on /opt/airflow/dags/pg2es.py
+[2023-09-26T07:19:16.003+0000] {processor.py:640} INFO - Processing file /opt/airflow/dags/pg2es.py for tasks to queue
+[2023-09-26T07:19:16.005+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:19:16.004+0000] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:19:16.467+0000] {processor.py:650} INFO - DAG(s) dict_keys(['Test_postgres2es']) retrieved from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:19:16.506+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:19:16.498+0000] {dag.py:2429} INFO - Sync 1 DAGs
+[2023-09-26T07:19:16.519+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:19:16.519+0000] {dag.py:2981} INFO - Setting next_dagrun for Test_postgres2es to 2023-09-25T00:00:00+00:00, run_after=2023-09-26T00:00:00+00:00
+[2023-09-26T07:19:16.527+0000] {processor.py:161} INFO - Processing /opt/airflow/dags/pg2es.py took 0.531 seconds
+[2023-09-26T07:19:46.802+0000] {processor.py:153} INFO - Started process (PID=555) to work on /opt/airflow/dags/pg2es.py
+[2023-09-26T07:19:46.804+0000] {processor.py:640} INFO - Processing file /opt/airflow/dags/pg2es.py for tasks to queue
+[2023-09-26T07:19:46.806+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:19:46.806+0000] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:19:47.267+0000] {processor.py:650} INFO - DAG(s) dict_keys(['Test_postgres2es']) retrieved from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:19:47.300+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:19:47.300+0000] {dag.py:2429} INFO - Sync 1 DAGs
+[2023-09-26T07:19:47.313+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:19:47.313+0000] {dag.py:2981} INFO - Setting next_dagrun for Test_postgres2es to 2023-09-25T00:00:00+00:00, run_after=2023-09-26T00:00:00+00:00
+[2023-09-26T07:19:47.320+0000] {processor.py:161} INFO - Processing /opt/airflow/dags/pg2es.py took 0.526 seconds
+[2023-09-26T07:20:17.599+0000] {processor.py:153} INFO - Started process (PID=567) to work on /opt/airflow/dags/pg2es.py
+[2023-09-26T07:20:17.603+0000] {processor.py:640} INFO - Processing file /opt/airflow/dags/pg2es.py for tasks to queue
+[2023-09-26T07:20:17.605+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:20:17.605+0000] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:20:18.093+0000] {processor.py:650} INFO - DAG(s) dict_keys(['Test_postgres2es']) retrieved from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:20:18.115+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:20:18.115+0000] {dag.py:2429} INFO - Sync 1 DAGs
+[2023-09-26T07:20:18.128+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:20:18.128+0000] {dag.py:2981} INFO - Setting next_dagrun for Test_postgres2es to 2023-09-25T00:00:00+00:00, run_after=2023-09-26T00:00:00+00:00
+[2023-09-26T07:20:18.136+0000] {processor.py:161} INFO - Processing /opt/airflow/dags/pg2es.py took 0.552 seconds
+[2023-09-26T07:20:48.399+0000] {processor.py:153} INFO - Started process (PID=579) to work on /opt/airflow/dags/pg2es.py
+[2023-09-26T07:20:48.404+0000] {processor.py:640} INFO - Processing file /opt/airflow/dags/pg2es.py for tasks to queue
+[2023-09-26T07:20:48.407+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:20:48.407+0000] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:20:48.865+0000] {processor.py:650} INFO - DAG(s) dict_keys(['Test_postgres2es']) retrieved from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:20:48.886+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:20:48.886+0000] {dag.py:2429} INFO - Sync 1 DAGs
+[2023-09-26T07:20:48.898+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:20:48.898+0000] {dag.py:2981} INFO - Setting next_dagrun for Test_postgres2es to 2023-09-25T00:00:00+00:00, run_after=2023-09-26T00:00:00+00:00
+[2023-09-26T07:20:48.905+0000] {processor.py:161} INFO - Processing /opt/airflow/dags/pg2es.py took 0.520 seconds
+[2023-09-26T07:21:19.132+0000] {processor.py:153} INFO - Started process (PID=605) to work on /opt/airflow/dags/pg2es.py
+[2023-09-26T07:21:19.139+0000] {processor.py:640} INFO - Processing file /opt/airflow/dags/pg2es.py for tasks to queue
+[2023-09-26T07:21:19.141+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:21:19.141+0000] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:21:19.631+0000] {processor.py:650} INFO - DAG(s) dict_keys(['Test_postgres2es']) retrieved from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:21:19.661+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:21:19.661+0000] {dag.py:2429} INFO - Sync 1 DAGs
+[2023-09-26T07:21:19.674+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:21:19.674+0000] {dag.py:2981} INFO - Setting next_dagrun for Test_postgres2es to 2023-09-25T00:00:00+00:00, run_after=2023-09-26T00:00:00+00:00
+[2023-09-26T07:21:19.680+0000] {processor.py:161} INFO - Processing /opt/airflow/dags/pg2es.py took 0.575 seconds
+[2023-09-26T07:21:49.911+0000] {processor.py:153} INFO - Started process (PID=617) to work on /opt/airflow/dags/pg2es.py
+[2023-09-26T07:21:49.913+0000] {processor.py:640} INFO - Processing file /opt/airflow/dags/pg2es.py for tasks to queue
+[2023-09-26T07:21:49.914+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:21:49.914+0000] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:21:50.397+0000] {processor.py:650} INFO - DAG(s) dict_keys(['Test_postgres2es']) retrieved from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:21:50.431+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:21:50.431+0000] {dag.py:2429} INFO - Sync 1 DAGs
+[2023-09-26T07:21:50.443+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:21:50.443+0000] {dag.py:2981} INFO - Setting next_dagrun for Test_postgres2es to 2023-09-25T00:00:00+00:00, run_after=2023-09-26T00:00:00+00:00
+[2023-09-26T07:21:50.449+0000] {processor.py:161} INFO - Processing /opt/airflow/dags/pg2es.py took 0.546 seconds
+[2023-09-26T07:22:20.693+0000] {processor.py:153} INFO - Started process (PID=629) to work on /opt/airflow/dags/pg2es.py
+[2023-09-26T07:22:20.696+0000] {processor.py:640} INFO - Processing file /opt/airflow/dags/pg2es.py for tasks to queue
+[2023-09-26T07:22:20.698+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:22:20.697+0000] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:22:21.183+0000] {processor.py:650} INFO - DAG(s) dict_keys(['Test_postgres2es']) retrieved from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:22:21.205+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:22:21.205+0000] {dag.py:2429} INFO - Sync 1 DAGs
+[2023-09-26T07:22:21.218+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:22:21.218+0000] {dag.py:2981} INFO - Setting next_dagrun for Test_postgres2es to 2023-09-25T00:00:00+00:00, run_after=2023-09-26T00:00:00+00:00
+[2023-09-26T07:22:21.225+0000] {processor.py:161} INFO - Processing /opt/airflow/dags/pg2es.py took 0.540 seconds
+[2023-09-26T07:22:51.497+0000] {processor.py:153} INFO - Started process (PID=641) to work on /opt/airflow/dags/pg2es.py
+[2023-09-26T07:22:51.501+0000] {processor.py:640} INFO - Processing file /opt/airflow/dags/pg2es.py for tasks to queue
+[2023-09-26T07:22:51.504+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:22:51.504+0000] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:22:52.056+0000] {processor.py:650} INFO - DAG(s) dict_keys(['Test_postgres2es']) retrieved from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:22:52.089+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:22:52.088+0000] {dag.py:2429} INFO - Sync 1 DAGs
+[2023-09-26T07:22:52.104+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:22:52.104+0000] {dag.py:2981} INFO - Setting next_dagrun for Test_postgres2es to 2023-09-25T00:00:00+00:00, run_after=2023-09-26T00:00:00+00:00
+[2023-09-26T07:22:52.111+0000] {processor.py:161} INFO - Processing /opt/airflow/dags/pg2es.py took 0.633 seconds
+[2023-09-26T07:23:22.359+0000] {processor.py:153} INFO - Started process (PID=653) to work on /opt/airflow/dags/pg2es.py
+[2023-09-26T07:23:22.362+0000] {processor.py:640} INFO - Processing file /opt/airflow/dags/pg2es.py for tasks to queue
+[2023-09-26T07:23:22.363+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:23:22.363+0000] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:23:22.839+0000] {processor.py:650} INFO - DAG(s) dict_keys(['Test_postgres2es']) retrieved from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:23:22.862+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:23:22.862+0000] {dag.py:2429} INFO - Sync 1 DAGs
+[2023-09-26T07:23:22.874+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:23:22.874+0000] {dag.py:2981} INFO - Setting next_dagrun for Test_postgres2es to 2023-09-25T00:00:00+00:00, run_after=2023-09-26T00:00:00+00:00
+[2023-09-26T07:23:22.880+0000] {processor.py:161} INFO - Processing /opt/airflow/dags/pg2es.py took 0.540 seconds
+[2023-09-26T07:23:53.115+0000] {processor.py:153} INFO - Started process (PID=665) to work on /opt/airflow/dags/pg2es.py
+[2023-09-26T07:23:53.125+0000] {processor.py:640} INFO - Processing file /opt/airflow/dags/pg2es.py for tasks to queue
+[2023-09-26T07:23:53.128+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:23:53.127+0000] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:23:53.568+0000] {processor.py:650} INFO - DAG(s) dict_keys(['Test_postgres2es']) retrieved from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:23:53.589+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:23:53.588+0000] {dag.py:2429} INFO - Sync 1 DAGs
+[2023-09-26T07:23:53.600+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:23:53.600+0000] {dag.py:2981} INFO - Setting next_dagrun for Test_postgres2es to 2023-09-25T00:00:00+00:00, run_after=2023-09-26T00:00:00+00:00
+[2023-09-26T07:23:53.607+0000] {processor.py:161} INFO - Processing /opt/airflow/dags/pg2es.py took 0.501 seconds
+[2023-09-26T07:24:23.879+0000] {processor.py:153} INFO - Started process (PID=677) to work on /opt/airflow/dags/pg2es.py
+[2023-09-26T07:24:23.881+0000] {processor.py:640} INFO - Processing file /opt/airflow/dags/pg2es.py for tasks to queue
+[2023-09-26T07:24:23.883+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:24:23.883+0000] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:24:24.455+0000] {processor.py:650} INFO - DAG(s) dict_keys(['Test_postgres2es']) retrieved from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:24:24.483+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:24:24.482+0000] {dag.py:2429} INFO - Sync 1 DAGs
+[2023-09-26T07:24:24.495+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:24:24.495+0000] {dag.py:2981} INFO - Setting next_dagrun for Test_postgres2es to 2023-09-25T00:00:00+00:00, run_after=2023-09-26T00:00:00+00:00
+[2023-09-26T07:24:24.503+0000] {processor.py:161} INFO - Processing /opt/airflow/dags/pg2es.py took 0.632 seconds
+[2023-09-26T07:24:54.749+0000] {processor.py:153} INFO - Started process (PID=689) to work on /opt/airflow/dags/pg2es.py
+[2023-09-26T07:24:54.751+0000] {processor.py:640} INFO - Processing file /opt/airflow/dags/pg2es.py for tasks to queue
+[2023-09-26T07:24:54.753+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:24:54.752+0000] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:24:55.264+0000] {processor.py:650} INFO - DAG(s) dict_keys(['Test_postgres2es']) retrieved from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:24:55.301+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:24:55.300+0000] {dag.py:2429} INFO - Sync 1 DAGs
+[2023-09-26T07:24:55.315+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:24:55.315+0000] {dag.py:2981} INFO - Setting next_dagrun for Test_postgres2es to 2023-09-25T00:00:00+00:00, run_after=2023-09-26T00:00:00+00:00
+[2023-09-26T07:24:55.323+0000] {processor.py:161} INFO - Processing /opt/airflow/dags/pg2es.py took 0.581 seconds
+[2023-09-26T07:25:25.582+0000] {processor.py:153} INFO - Started process (PID=701) to work on /opt/airflow/dags/pg2es.py
+[2023-09-26T07:25:25.586+0000] {processor.py:640} INFO - Processing file /opt/airflow/dags/pg2es.py for tasks to queue
+[2023-09-26T07:25:25.589+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:25:25.589+0000] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:25:26.093+0000] {processor.py:650} INFO - DAG(s) dict_keys(['Test_postgres2es']) retrieved from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:25:26.121+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:25:26.120+0000] {dag.py:2429} INFO - Sync 1 DAGs
+[2023-09-26T07:25:26.134+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:25:26.134+0000] {dag.py:2981} INFO - Setting next_dagrun for Test_postgres2es to 2023-09-25T00:00:00+00:00, run_after=2023-09-26T00:00:00+00:00
+[2023-09-26T07:25:26.140+0000] {processor.py:161} INFO - Processing /opt/airflow/dags/pg2es.py took 0.577 seconds
+[2023-09-26T07:25:56.353+0000] {processor.py:153} INFO - Started process (PID=724) to work on /opt/airflow/dags/pg2es.py
+[2023-09-26T07:25:56.357+0000] {processor.py:640} INFO - Processing file /opt/airflow/dags/pg2es.py for tasks to queue
+[2023-09-26T07:25:56.358+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:25:56.358+0000] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:25:56.817+0000] {processor.py:650} INFO - DAG(s) dict_keys(['Test_postgres2es']) retrieved from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:25:56.836+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:25:56.836+0000] {dag.py:2429} INFO - Sync 1 DAGs
+[2023-09-26T07:25:56.851+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:25:56.851+0000] {dag.py:2981} INFO - Setting next_dagrun for Test_postgres2es to 2023-09-26T00:00:00+00:00, run_after=2023-09-27T00:00:00+00:00
+[2023-09-26T07:25:56.859+0000] {processor.py:161} INFO - Processing /opt/airflow/dags/pg2es.py took 0.533 seconds
+[2023-09-26T07:26:27.551+0000] {processor.py:153} INFO - Started process (PID=743) to work on /opt/airflow/dags/pg2es.py
+[2023-09-26T07:26:27.555+0000] {processor.py:640} INFO - Processing file /opt/airflow/dags/pg2es.py for tasks to queue
+[2023-09-26T07:26:27.556+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:26:27.556+0000] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:26:28.087+0000] {processor.py:650} INFO - DAG(s) dict_keys(['Test_postgres2es']) retrieved from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:26:28.137+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:26:28.136+0000] {dag.py:2429} INFO - Sync 1 DAGs
+[2023-09-26T07:26:28.156+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:26:28.156+0000] {dag.py:2981} INFO - Setting next_dagrun for Test_postgres2es to 2023-09-26T00:00:00+00:00, run_after=2023-09-27T00:00:00+00:00
+[2023-09-26T07:26:28.162+0000] {processor.py:161} INFO - Processing /opt/airflow/dags/pg2es.py took 0.618 seconds
+[2023-09-26T07:26:58.453+0000] {processor.py:153} INFO - Started process (PID=755) to work on /opt/airflow/dags/pg2es.py
+[2023-09-26T07:26:58.455+0000] {processor.py:640} INFO - Processing file /opt/airflow/dags/pg2es.py for tasks to queue
+[2023-09-26T07:26:58.456+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:26:58.456+0000] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:26:58.962+0000] {processor.py:650} INFO - DAG(s) dict_keys(['Test_postgres2es']) retrieved from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:26:59.000+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:26:58.999+0000] {dag.py:2429} INFO - Sync 1 DAGs
+[2023-09-26T07:26:59.017+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:26:59.017+0000] {dag.py:2981} INFO - Setting next_dagrun for Test_postgres2es to 2023-09-26T00:00:00+00:00, run_after=2023-09-27T00:00:00+00:00
+[2023-09-26T07:26:59.024+0000] {processor.py:161} INFO - Processing /opt/airflow/dags/pg2es.py took 0.576 seconds
+[2023-09-26T07:27:29.319+0000] {processor.py:153} INFO - Started process (PID=767) to work on /opt/airflow/dags/pg2es.py
+[2023-09-26T07:27:29.321+0000] {processor.py:640} INFO - Processing file /opt/airflow/dags/pg2es.py for tasks to queue
+[2023-09-26T07:27:29.322+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:27:29.322+0000] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:27:29.903+0000] {processor.py:650} INFO - DAG(s) dict_keys(['Test_postgres2es']) retrieved from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:27:29.926+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:27:29.925+0000] {dag.py:2429} INFO - Sync 1 DAGs
+[2023-09-26T07:27:29.945+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:27:29.944+0000] {dag.py:2981} INFO - Setting next_dagrun for Test_postgres2es to 2023-09-26T00:00:00+00:00, run_after=2023-09-27T00:00:00+00:00
+[2023-09-26T07:27:29.959+0000] {processor.py:161} INFO - Processing /opt/airflow/dags/pg2es.py took 0.646 seconds
+[2023-09-26T07:28:00.177+0000] {processor.py:153} INFO - Started process (PID=779) to work on /opt/airflow/dags/pg2es.py
+[2023-09-26T07:28:00.179+0000] {processor.py:640} INFO - Processing file /opt/airflow/dags/pg2es.py for tasks to queue
+[2023-09-26T07:28:00.181+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:28:00.181+0000] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:28:00.657+0000] {processor.py:650} INFO - DAG(s) dict_keys(['Test_postgres2es']) retrieved from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:28:00.675+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:28:00.675+0000] {dag.py:2429} INFO - Sync 1 DAGs
+[2023-09-26T07:28:00.687+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:28:00.687+0000] {dag.py:2981} INFO - Setting next_dagrun for Test_postgres2es to 2023-09-26T00:00:00+00:00, run_after=2023-09-27T00:00:00+00:00
+[2023-09-26T07:28:00.698+0000] {processor.py:161} INFO - Processing /opt/airflow/dags/pg2es.py took 0.528 seconds
+[2023-09-26T07:28:30.887+0000] {processor.py:153} INFO - Started process (PID=791) to work on /opt/airflow/dags/pg2es.py
+[2023-09-26T07:28:30.890+0000] {processor.py:640} INFO - Processing file /opt/airflow/dags/pg2es.py for tasks to queue
+[2023-09-26T07:28:30.891+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:28:30.891+0000] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:28:31.367+0000] {processor.py:650} INFO - DAG(s) dict_keys(['Test_postgres2es']) retrieved from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:28:31.385+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:28:31.385+0000] {dag.py:2429} INFO - Sync 1 DAGs
+[2023-09-26T07:28:31.410+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:28:31.409+0000] {dag.py:2981} INFO - Setting next_dagrun for Test_postgres2es to 2023-09-26T00:00:00+00:00, run_after=2023-09-27T00:00:00+00:00
+[2023-09-26T07:28:31.426+0000] {processor.py:161} INFO - Processing /opt/airflow/dags/pg2es.py took 0.566 seconds
+[2023-09-26T07:29:02.046+0000] {processor.py:153} INFO - Started process (PID=812) to work on /opt/airflow/dags/pg2es.py
+[2023-09-26T07:29:02.048+0000] {processor.py:640} INFO - Processing file /opt/airflow/dags/pg2es.py for tasks to queue
+[2023-09-26T07:29:02.049+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:29:02.049+0000] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:29:02.562+0000] {processor.py:650} INFO - DAG(s) dict_keys(['Test_postgres2es']) retrieved from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:29:02.611+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:29:02.611+0000] {dag.py:2429} INFO - Sync 1 DAGs
+[2023-09-26T07:29:02.628+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:29:02.628+0000] {dag.py:2981} INFO - Setting next_dagrun for Test_postgres2es to 2023-09-26T00:00:00+00:00, run_after=2023-09-27T00:00:00+00:00
+[2023-09-26T07:29:02.642+0000] {processor.py:161} INFO - Processing /opt/airflow/dags/pg2es.py took 0.601 seconds
+[2023-09-26T07:29:32.861+0000] {processor.py:153} INFO - Started process (PID=824) to work on /opt/airflow/dags/pg2es.py
+[2023-09-26T07:29:32.864+0000] {processor.py:640} INFO - Processing file /opt/airflow/dags/pg2es.py for tasks to queue
+[2023-09-26T07:29:32.866+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:29:32.865+0000] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:29:33.351+0000] {processor.py:650} INFO - DAG(s) dict_keys(['Test_postgres2es']) retrieved from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:29:33.371+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:29:33.371+0000] {dag.py:2429} INFO - Sync 1 DAGs
+[2023-09-26T07:29:33.383+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:29:33.383+0000] {dag.py:2981} INFO - Setting next_dagrun for Test_postgres2es to 2023-09-26T00:00:00+00:00, run_after=2023-09-27T00:00:00+00:00
+[2023-09-26T07:29:33.397+0000] {processor.py:161} INFO - Processing /opt/airflow/dags/pg2es.py took 0.541 seconds
+[2023-09-26T07:30:03.604+0000] {processor.py:153} INFO - Started process (PID=836) to work on /opt/airflow/dags/pg2es.py
+[2023-09-26T07:30:03.607+0000] {processor.py:640} INFO - Processing file /opt/airflow/dags/pg2es.py for tasks to queue
+[2023-09-26T07:30:03.609+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:30:03.609+0000] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:30:04.115+0000] {processor.py:650} INFO - DAG(s) dict_keys(['Test_postgres2es']) retrieved from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:30:04.142+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:30:04.142+0000] {dag.py:2429} INFO - Sync 1 DAGs
+[2023-09-26T07:30:04.156+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:30:04.156+0000] {dag.py:2981} INFO - Setting next_dagrun for Test_postgres2es to 2023-09-26T00:00:00+00:00, run_after=2023-09-27T00:00:00+00:00
+[2023-09-26T07:30:04.167+0000] {processor.py:161} INFO - Processing /opt/airflow/dags/pg2es.py took 0.571 seconds
+[2023-09-26T07:30:34.456+0000] {processor.py:153} INFO - Started process (PID=848) to work on /opt/airflow/dags/pg2es.py
+[2023-09-26T07:30:34.458+0000] {processor.py:640} INFO - Processing file /opt/airflow/dags/pg2es.py for tasks to queue
+[2023-09-26T07:30:34.459+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:30:34.459+0000] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:30:34.955+0000] {processor.py:650} INFO - DAG(s) dict_keys(['Test_postgres2es']) retrieved from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:30:34.978+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:30:34.977+0000] {dag.py:2429} INFO - Sync 1 DAGs
+[2023-09-26T07:30:35.003+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:30:35.003+0000] {dag.py:2981} INFO - Setting next_dagrun for Test_postgres2es to 2023-09-26T00:00:00+00:00, run_after=2023-09-27T00:00:00+00:00
+[2023-09-26T07:30:35.017+0000] {processor.py:161} INFO - Processing /opt/airflow/dags/pg2es.py took 0.565 seconds
+[2023-09-26T07:31:05.226+0000] {processor.py:153} INFO - Started process (PID=860) to work on /opt/airflow/dags/pg2es.py
+[2023-09-26T07:31:05.233+0000] {processor.py:640} INFO - Processing file /opt/airflow/dags/pg2es.py for tasks to queue
+[2023-09-26T07:31:05.235+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:31:05.235+0000] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:31:05.717+0000] {processor.py:650} INFO - DAG(s) dict_keys(['Test_postgres2es']) retrieved from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:31:05.741+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:31:05.740+0000] {dag.py:2429} INFO - Sync 1 DAGs
+[2023-09-26T07:31:05.753+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:31:05.753+0000] {dag.py:2981} INFO - Setting next_dagrun for Test_postgres2es to 2023-09-26T00:00:00+00:00, run_after=2023-09-27T00:00:00+00:00
+[2023-09-26T07:31:05.760+0000] {processor.py:161} INFO - Processing /opt/airflow/dags/pg2es.py took 0.545 seconds
+[2023-09-26T07:31:35.997+0000] {processor.py:153} INFO - Started process (PID=872) to work on /opt/airflow/dags/pg2es.py
+[2023-09-26T07:31:35.999+0000] {processor.py:640} INFO - Processing file /opt/airflow/dags/pg2es.py for tasks to queue
+[2023-09-26T07:31:36.000+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:31:36.000+0000] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:31:36.494+0000] {processor.py:650} INFO - DAG(s) dict_keys(['Test_postgres2es']) retrieved from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:31:36.514+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:31:36.514+0000] {dag.py:2429} INFO - Sync 1 DAGs
+[2023-09-26T07:31:36.526+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:31:36.526+0000] {dag.py:2981} INFO - Setting next_dagrun for Test_postgres2es to 2023-09-26T00:00:00+00:00, run_after=2023-09-27T00:00:00+00:00
+[2023-09-26T07:31:36.532+0000] {processor.py:161} INFO - Processing /opt/airflow/dags/pg2es.py took 0.551 seconds
+[2023-09-26T07:32:07.217+0000] {processor.py:153} INFO - Started process (PID=884) to work on /opt/airflow/dags/pg2es.py
+[2023-09-26T07:32:07.220+0000] {processor.py:640} INFO - Processing file /opt/airflow/dags/pg2es.py for tasks to queue
+[2023-09-26T07:32:07.222+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:32:07.221+0000] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:32:07.682+0000] {processor.py:650} INFO - DAG(s) dict_keys(['Test_postgres2es']) retrieved from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:32:07.704+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:32:07.704+0000] {dag.py:2429} INFO - Sync 1 DAGs
+[2023-09-26T07:32:07.717+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:32:07.717+0000] {dag.py:2981} INFO - Setting next_dagrun for Test_postgres2es to 2023-09-26T00:00:00+00:00, run_after=2023-09-27T00:00:00+00:00
+[2023-09-26T07:32:07.723+0000] {processor.py:161} INFO - Processing /opt/airflow/dags/pg2es.py took 0.551 seconds
+[2023-09-26T07:32:37.960+0000] {processor.py:153} INFO - Started process (PID=896) to work on /opt/airflow/dags/pg2es.py
+[2023-09-26T07:32:37.963+0000] {processor.py:640} INFO - Processing file /opt/airflow/dags/pg2es.py for tasks to queue
+[2023-09-26T07:32:37.964+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:32:37.963+0000] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:32:38.404+0000] {processor.py:650} INFO - DAG(s) dict_keys(['Test_postgres2es']) retrieved from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:32:38.442+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:32:38.442+0000] {dag.py:2429} INFO - Sync 1 DAGs
+[2023-09-26T07:32:38.455+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:32:38.455+0000] {dag.py:2981} INFO - Setting next_dagrun for Test_postgres2es to 2023-09-26T00:00:00+00:00, run_after=2023-09-27T00:00:00+00:00
+[2023-09-26T07:32:38.461+0000] {processor.py:161} INFO - Processing /opt/airflow/dags/pg2es.py took 0.516 seconds
+[2023-09-26T07:33:08.721+0000] {processor.py:153} INFO - Started process (PID=908) to work on /opt/airflow/dags/pg2es.py
+[2023-09-26T07:33:08.724+0000] {processor.py:640} INFO - Processing file /opt/airflow/dags/pg2es.py for tasks to queue
+[2023-09-26T07:33:08.725+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:33:08.725+0000] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:33:09.182+0000] {processor.py:650} INFO - DAG(s) dict_keys(['Test_postgres2es']) retrieved from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:33:09.219+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:33:09.219+0000] {dag.py:2429} INFO - Sync 1 DAGs
+[2023-09-26T07:33:09.231+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:33:09.231+0000] {dag.py:2981} INFO - Setting next_dagrun for Test_postgres2es to 2023-09-26T00:00:00+00:00, run_after=2023-09-27T00:00:00+00:00
+[2023-09-26T07:33:09.237+0000] {processor.py:161} INFO - Processing /opt/airflow/dags/pg2es.py took 0.532 seconds
+[2023-09-26T07:33:39.503+0000] {processor.py:153} INFO - Started process (PID=920) to work on /opt/airflow/dags/pg2es.py
+[2023-09-26T07:33:39.506+0000] {processor.py:640} INFO - Processing file /opt/airflow/dags/pg2es.py for tasks to queue
+[2023-09-26T07:33:39.507+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:33:39.507+0000] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:33:40.012+0000] {processor.py:650} INFO - DAG(s) dict_keys(['Test_postgres2es']) retrieved from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:33:40.035+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:33:40.035+0000] {dag.py:2429} INFO - Sync 1 DAGs
+[2023-09-26T07:33:40.048+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:33:40.048+0000] {dag.py:2981} INFO - Setting next_dagrun for Test_postgres2es to 2023-09-26T00:00:00+00:00, run_after=2023-09-27T00:00:00+00:00
+[2023-09-26T07:33:40.055+0000] {processor.py:161} INFO - Processing /opt/airflow/dags/pg2es.py took 0.562 seconds
+[2023-09-26T07:34:10.313+0000] {processor.py:153} INFO - Started process (PID=932) to work on /opt/airflow/dags/pg2es.py
+[2023-09-26T07:34:10.315+0000] {processor.py:640} INFO - Processing file /opt/airflow/dags/pg2es.py for tasks to queue
+[2023-09-26T07:34:10.316+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:34:10.316+0000] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:34:10.820+0000] {processor.py:650} INFO - DAG(s) dict_keys(['Test_postgres2es']) retrieved from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:34:10.842+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:34:10.841+0000] {dag.py:2429} INFO - Sync 1 DAGs
+[2023-09-26T07:34:10.855+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:34:10.855+0000] {dag.py:2981} INFO - Setting next_dagrun for Test_postgres2es to 2023-09-26T00:00:00+00:00, run_after=2023-09-27T00:00:00+00:00
+[2023-09-26T07:34:10.861+0000] {processor.py:161} INFO - Processing /opt/airflow/dags/pg2es.py took 0.561 seconds
+[2023-09-26T07:34:41.143+0000] {processor.py:153} INFO - Started process (PID=944) to work on /opt/airflow/dags/pg2es.py
+[2023-09-26T07:34:41.146+0000] {processor.py:640} INFO - Processing file /opt/airflow/dags/pg2es.py for tasks to queue
+[2023-09-26T07:34:41.147+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:34:41.147+0000] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:34:41.614+0000] {processor.py:650} INFO - DAG(s) dict_keys(['Test_postgres2es']) retrieved from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:34:41.638+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:34:41.638+0000] {dag.py:2429} INFO - Sync 1 DAGs
+[2023-09-26T07:34:41.651+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:34:41.651+0000] {dag.py:2981} INFO - Setting next_dagrun for Test_postgres2es to 2023-09-26T00:00:00+00:00, run_after=2023-09-27T00:00:00+00:00
+[2023-09-26T07:34:41.657+0000] {processor.py:161} INFO - Processing /opt/airflow/dags/pg2es.py took 0.529 seconds
+[2023-09-26T07:35:11.956+0000] {processor.py:153} INFO - Started process (PID=956) to work on /opt/airflow/dags/pg2es.py
+[2023-09-26T07:35:11.959+0000] {processor.py:640} INFO - Processing file /opt/airflow/dags/pg2es.py for tasks to queue
+[2023-09-26T07:35:11.960+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:35:11.960+0000] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:35:12.435+0000] {processor.py:650} INFO - DAG(s) dict_keys(['Test_postgres2es']) retrieved from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:35:12.460+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:35:12.458+0000] {dag.py:2429} INFO - Sync 1 DAGs
+[2023-09-26T07:35:12.487+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:35:12.486+0000] {dag.py:2981} INFO - Setting next_dagrun for Test_postgres2es to 2023-09-26T00:00:00+00:00, run_after=2023-09-27T00:00:00+00:00
+[2023-09-26T07:35:12.493+0000] {processor.py:161} INFO - Processing /opt/airflow/dags/pg2es.py took 0.553 seconds
+[2023-09-26T07:35:42.813+0000] {processor.py:153} INFO - Started process (PID=968) to work on /opt/airflow/dags/pg2es.py
+[2023-09-26T07:35:42.815+0000] {processor.py:640} INFO - Processing file /opt/airflow/dags/pg2es.py for tasks to queue
+[2023-09-26T07:35:42.817+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:35:42.816+0000] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:35:43.295+0000] {processor.py:650} INFO - DAG(s) dict_keys(['Test_postgres2es']) retrieved from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:35:43.318+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:35:43.318+0000] {dag.py:2429} INFO - Sync 1 DAGs
+[2023-09-26T07:35:43.331+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:35:43.331+0000] {dag.py:2981} INFO - Setting next_dagrun for Test_postgres2es to 2023-09-26T00:00:00+00:00, run_after=2023-09-27T00:00:00+00:00
+[2023-09-26T07:35:43.338+0000] {processor.py:161} INFO - Processing /opt/airflow/dags/pg2es.py took 0.531 seconds
+[2023-09-26T07:36:13.641+0000] {processor.py:153} INFO - Started process (PID=980) to work on /opt/airflow/dags/pg2es.py
+[2023-09-26T07:36:13.644+0000] {processor.py:640} INFO - Processing file /opt/airflow/dags/pg2es.py for tasks to queue
+[2023-09-26T07:36:13.646+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:36:13.646+0000] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:36:14.147+0000] {processor.py:650} INFO - DAG(s) dict_keys(['Test_postgres2es']) retrieved from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:36:14.172+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:36:14.171+0000] {dag.py:2429} INFO - Sync 1 DAGs
+[2023-09-26T07:36:14.187+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:36:14.187+0000] {dag.py:2981} INFO - Setting next_dagrun for Test_postgres2es to 2023-09-26T00:00:00+00:00, run_after=2023-09-27T00:00:00+00:00
+[2023-09-26T07:36:14.193+0000] {processor.py:161} INFO - Processing /opt/airflow/dags/pg2es.py took 0.561 seconds
+[2023-09-26T07:36:44.450+0000] {processor.py:153} INFO - Started process (PID=992) to work on /opt/airflow/dags/pg2es.py
+[2023-09-26T07:36:44.452+0000] {processor.py:640} INFO - Processing file /opt/airflow/dags/pg2es.py for tasks to queue
+[2023-09-26T07:36:44.454+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:36:44.454+0000] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:36:44.930+0000] {processor.py:650} INFO - DAG(s) dict_keys(['Test_postgres2es']) retrieved from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:36:44.950+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:36:44.950+0000] {dag.py:2429} INFO - Sync 1 DAGs
+[2023-09-26T07:36:44.962+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:36:44.962+0000] {dag.py:2981} INFO - Setting next_dagrun for Test_postgres2es to 2023-09-26T00:00:00+00:00, run_after=2023-09-27T00:00:00+00:00
+[2023-09-26T07:36:44.969+0000] {processor.py:161} INFO - Processing /opt/airflow/dags/pg2es.py took 0.528 seconds
+[2023-09-26T07:37:15.214+0000] {processor.py:153} INFO - Started process (PID=1004) to work on /opt/airflow/dags/pg2es.py
+[2023-09-26T07:37:15.217+0000] {processor.py:640} INFO - Processing file /opt/airflow/dags/pg2es.py for tasks to queue
+[2023-09-26T07:37:15.218+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:37:15.218+0000] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:37:15.695+0000] {processor.py:650} INFO - DAG(s) dict_keys(['Test_postgres2es']) retrieved from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:37:15.727+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:37:15.727+0000] {dag.py:2429} INFO - Sync 1 DAGs
+[2023-09-26T07:37:15.740+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:37:15.740+0000] {dag.py:2981} INFO - Setting next_dagrun for Test_postgres2es to 2023-09-26T00:00:00+00:00, run_after=2023-09-27T00:00:00+00:00
+[2023-09-26T07:37:15.747+0000] {processor.py:161} INFO - Processing /opt/airflow/dags/pg2es.py took 0.539 seconds
+[2023-09-26T07:37:46.082+0000] {processor.py:153} INFO - Started process (PID=1016) to work on /opt/airflow/dags/pg2es.py
+[2023-09-26T07:37:46.084+0000] {processor.py:640} INFO - Processing file /opt/airflow/dags/pg2es.py for tasks to queue
+[2023-09-26T07:37:46.085+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:37:46.085+0000] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:37:46.569+0000] {processor.py:650} INFO - DAG(s) dict_keys(['Test_postgres2es']) retrieved from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:37:46.589+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:37:46.589+0000] {dag.py:2429} INFO - Sync 1 DAGs
+[2023-09-26T07:37:46.602+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:37:46.602+0000] {dag.py:2981} INFO - Setting next_dagrun for Test_postgres2es to 2023-09-26T00:00:00+00:00, run_after=2023-09-27T00:00:00+00:00
+[2023-09-26T07:37:46.611+0000] {processor.py:161} INFO - Processing /opt/airflow/dags/pg2es.py took 0.536 seconds
+[2023-09-26T07:38:16.949+0000] {processor.py:153} INFO - Started process (PID=1028) to work on /opt/airflow/dags/pg2es.py
+[2023-09-26T07:38:16.952+0000] {processor.py:640} INFO - Processing file /opt/airflow/dags/pg2es.py for tasks to queue
+[2023-09-26T07:38:16.953+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:38:16.953+0000] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:38:17.397+0000] {processor.py:650} INFO - DAG(s) dict_keys(['Test_postgres2es']) retrieved from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:38:17.424+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:38:17.422+0000] {dag.py:2429} INFO - Sync 1 DAGs
+[2023-09-26T07:38:17.449+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:38:17.449+0000] {dag.py:2981} INFO - Setting next_dagrun for Test_postgres2es to 2023-09-26T00:00:00+00:00, run_after=2023-09-27T00:00:00+00:00
+[2023-09-26T07:38:17.457+0000] {processor.py:161} INFO - Processing /opt/airflow/dags/pg2es.py took 0.518 seconds
+[2023-09-26T07:38:47.695+0000] {processor.py:153} INFO - Started process (PID=1040) to work on /opt/airflow/dags/pg2es.py
+[2023-09-26T07:38:47.698+0000] {processor.py:640} INFO - Processing file /opt/airflow/dags/pg2es.py for tasks to queue
+[2023-09-26T07:38:47.700+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:38:47.700+0000] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:38:48.190+0000] {processor.py:650} INFO - DAG(s) dict_keys(['Test_postgres2es']) retrieved from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:38:48.213+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:38:48.213+0000] {dag.py:2429} INFO - Sync 1 DAGs
+[2023-09-26T07:38:48.226+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:38:48.226+0000] {dag.py:2981} INFO - Setting next_dagrun for Test_postgres2es to 2023-09-26T00:00:00+00:00, run_after=2023-09-27T00:00:00+00:00
+[2023-09-26T07:38:48.234+0000] {processor.py:161} INFO - Processing /opt/airflow/dags/pg2es.py took 0.545 seconds
+[2023-09-26T07:39:18.674+0000] {processor.py:153} INFO - Started process (PID=1052) to work on /opt/airflow/dags/pg2es.py
+[2023-09-26T07:39:18.677+0000] {processor.py:640} INFO - Processing file /opt/airflow/dags/pg2es.py for tasks to queue
+[2023-09-26T07:39:18.679+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:39:18.679+0000] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:39:19.124+0000] {processor.py:650} INFO - DAG(s) dict_keys(['Test_postgres2es']) retrieved from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:39:19.146+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:39:19.145+0000] {dag.py:2429} INFO - Sync 1 DAGs
+[2023-09-26T07:39:19.173+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:39:19.173+0000] {dag.py:2981} INFO - Setting next_dagrun for Test_postgres2es to 2023-09-26T00:00:00+00:00, run_after=2023-09-27T00:00:00+00:00
+[2023-09-26T07:39:19.184+0000] {processor.py:161} INFO - Processing /opt/airflow/dags/pg2es.py took 0.519 seconds
+[2023-09-26T07:39:49.433+0000] {processor.py:153} INFO - Started process (PID=1064) to work on /opt/airflow/dags/pg2es.py
+[2023-09-26T07:39:49.434+0000] {processor.py:640} INFO - Processing file /opt/airflow/dags/pg2es.py for tasks to queue
+[2023-09-26T07:39:49.435+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:39:49.435+0000] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:39:49.965+0000] {processor.py:650} INFO - DAG(s) dict_keys(['Test_postgres2es']) retrieved from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:39:49.996+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:39:49.996+0000] {dag.py:2429} INFO - Sync 1 DAGs
+[2023-09-26T07:39:50.010+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:39:50.010+0000] {dag.py:2981} INFO - Setting next_dagrun for Test_postgres2es to 2023-09-26T00:00:00+00:00, run_after=2023-09-27T00:00:00+00:00
+[2023-09-26T07:39:50.017+0000] {processor.py:161} INFO - Processing /opt/airflow/dags/pg2es.py took 0.589 seconds
+[2023-09-26T07:40:20.367+0000] {processor.py:153} INFO - Started process (PID=1076) to work on /opt/airflow/dags/pg2es.py
+[2023-09-26T07:40:20.369+0000] {processor.py:640} INFO - Processing file /opt/airflow/dags/pg2es.py for tasks to queue
+[2023-09-26T07:40:20.376+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:40:20.375+0000] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:40:20.899+0000] {processor.py:650} INFO - DAG(s) dict_keys(['Test_postgres2es']) retrieved from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:40:20.919+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:40:20.918+0000] {dag.py:2429} INFO - Sync 1 DAGs
+[2023-09-26T07:40:20.944+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:40:20.944+0000] {dag.py:2981} INFO - Setting next_dagrun for Test_postgres2es to 2023-09-26T00:00:00+00:00, run_after=2023-09-27T00:00:00+00:00
+[2023-09-26T07:40:20.950+0000] {processor.py:161} INFO - Processing /opt/airflow/dags/pg2es.py took 0.590 seconds
+[2023-09-26T07:40:51.297+0000] {processor.py:153} INFO - Started process (PID=1088) to work on /opt/airflow/dags/pg2es.py
+[2023-09-26T07:40:51.299+0000] {processor.py:640} INFO - Processing file /opt/airflow/dags/pg2es.py for tasks to queue
+[2023-09-26T07:40:51.301+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:40:51.301+0000] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:40:51.790+0000] {processor.py:650} INFO - DAG(s) dict_keys(['Test_postgres2es']) retrieved from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:40:51.813+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:40:51.813+0000] {dag.py:2429} INFO - Sync 1 DAGs
+[2023-09-26T07:40:51.828+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:40:51.827+0000] {dag.py:2981} INFO - Setting next_dagrun for Test_postgres2es to 2023-09-26T00:00:00+00:00, run_after=2023-09-27T00:00:00+00:00
+[2023-09-26T07:40:51.836+0000] {processor.py:161} INFO - Processing /opt/airflow/dags/pg2es.py took 0.546 seconds
+[2023-09-26T07:41:22.186+0000] {processor.py:153} INFO - Started process (PID=1100) to work on /opt/airflow/dags/pg2es.py
+[2023-09-26T07:41:22.188+0000] {processor.py:640} INFO - Processing file /opt/airflow/dags/pg2es.py for tasks to queue
+[2023-09-26T07:41:22.189+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:41:22.189+0000] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:41:22.732+0000] {processor.py:650} INFO - DAG(s) dict_keys(['Test_postgres2es']) retrieved from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:41:22.753+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:41:22.753+0000] {dag.py:2429} INFO - Sync 1 DAGs
+[2023-09-26T07:41:22.768+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:41:22.767+0000] {dag.py:2981} INFO - Setting next_dagrun for Test_postgres2es to 2023-09-26T00:00:00+00:00, run_after=2023-09-27T00:00:00+00:00
+[2023-09-26T07:41:22.773+0000] {processor.py:161} INFO - Processing /opt/airflow/dags/pg2es.py took 0.594 seconds
+[2023-09-26T07:41:53.108+0000] {processor.py:153} INFO - Started process (PID=1112) to work on /opt/airflow/dags/pg2es.py
+[2023-09-26T07:41:53.110+0000] {processor.py:640} INFO - Processing file /opt/airflow/dags/pg2es.py for tasks to queue
+[2023-09-26T07:41:53.111+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:41:53.111+0000] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:41:53.582+0000] {processor.py:650} INFO - DAG(s) dict_keys(['Test_postgres2es']) retrieved from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:41:53.623+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:41:53.622+0000] {dag.py:2429} INFO - Sync 1 DAGs
+[2023-09-26T07:41:53.635+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:41:53.634+0000] {dag.py:2981} INFO - Setting next_dagrun for Test_postgres2es to 2023-09-26T00:00:00+00:00, run_after=2023-09-27T00:00:00+00:00
+[2023-09-26T07:41:53.642+0000] {processor.py:161} INFO - Processing /opt/airflow/dags/pg2es.py took 0.540 seconds
+[2023-09-26T07:42:23.943+0000] {processor.py:153} INFO - Started process (PID=1124) to work on /opt/airflow/dags/pg2es.py
+[2023-09-26T07:42:23.945+0000] {processor.py:640} INFO - Processing file /opt/airflow/dags/pg2es.py for tasks to queue
+[2023-09-26T07:42:23.946+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:42:23.946+0000] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:42:24.414+0000] {processor.py:650} INFO - DAG(s) dict_keys(['Test_postgres2es']) retrieved from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:42:24.457+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:42:24.457+0000] {dag.py:2429} INFO - Sync 1 DAGs
+[2023-09-26T07:42:24.481+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:42:24.481+0000] {dag.py:2981} INFO - Setting next_dagrun for Test_postgres2es to 2023-09-26T00:00:00+00:00, run_after=2023-09-27T00:00:00+00:00
+[2023-09-26T07:42:24.490+0000] {processor.py:161} INFO - Processing /opt/airflow/dags/pg2es.py took 0.552 seconds
+[2023-09-26T07:48:00.393+0000] {processor.py:153} INFO - Started process (PID=1137) to work on /opt/airflow/dags/pg2es.py
+[2023-09-26T07:48:00.394+0000] {processor.py:640} INFO - Processing file /opt/airflow/dags/pg2es.py for tasks to queue
+[2023-09-26T07:48:00.395+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:48:00.395+0000] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:48:02.201+0000] {processor.py:650} INFO - DAG(s) dict_keys(['Test_postgres2es']) retrieved from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:48:02.264+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:48:02.262+0000] {dag.py:2429} INFO - Sync 1 DAGs
+[2023-09-26T07:48:02.291+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:48:02.291+0000] {dag.py:2981} INFO - Setting next_dagrun for Test_postgres2es to 2023-09-26T00:00:00+00:00, run_after=2023-09-27T00:00:00+00:00
+[2023-09-26T07:48:02.329+0000] {processor.py:161} INFO - Processing /opt/airflow/dags/pg2es.py took 1.942 seconds
+[2023-09-26T07:48:32.660+0000] {processor.py:153} INFO - Started process (PID=1151) to work on /opt/airflow/dags/pg2es.py
+[2023-09-26T07:48:32.664+0000] {processor.py:640} INFO - Processing file /opt/airflow/dags/pg2es.py for tasks to queue
+[2023-09-26T07:48:32.665+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:48:32.665+0000] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:48:33.295+0000] {processor.py:650} INFO - DAG(s) dict_keys(['Test_postgres2es']) retrieved from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:48:33.310+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:48:33.310+0000] {dag.py:2429} INFO - Sync 1 DAGs
+[2023-09-26T07:48:33.324+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:48:33.324+0000] {dag.py:2981} INFO - Setting next_dagrun for Test_postgres2es to 2023-09-26T00:00:00+00:00, run_after=2023-09-27T00:00:00+00:00
+[2023-09-26T07:48:33.332+0000] {processor.py:161} INFO - Processing /opt/airflow/dags/pg2es.py took 0.679 seconds
+[2023-09-26T07:49:03.603+0000] {processor.py:153} INFO - Started process (PID=1173) to work on /opt/airflow/dags/pg2es.py
+[2023-09-26T07:49:03.604+0000] {processor.py:640} INFO - Processing file /opt/airflow/dags/pg2es.py for tasks to queue
+[2023-09-26T07:49:03.606+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:49:03.605+0000] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:49:04.363+0000] {processor.py:650} INFO - DAG(s) dict_keys(['Test_postgres2es']) retrieved from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:49:04.441+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:49:04.440+0000] {dag.py:2429} INFO - Sync 1 DAGs
+[2023-09-26T07:49:04.460+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:49:04.460+0000] {dag.py:2981} INFO - Setting next_dagrun for Test_postgres2es to 2023-09-26T00:00:00+00:00, run_after=2023-09-27T00:00:00+00:00
+[2023-09-26T07:49:04.471+0000] {processor.py:161} INFO - Processing /opt/airflow/dags/pg2es.py took 0.874 seconds
+[2023-09-26T07:49:34.730+0000] {processor.py:153} INFO - Started process (PID=1184) to work on /opt/airflow/dags/pg2es.py
+[2023-09-26T07:49:34.732+0000] {processor.py:640} INFO - Processing file /opt/airflow/dags/pg2es.py for tasks to queue
+[2023-09-26T07:49:34.737+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:49:34.736+0000] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:49:35.458+0000] {processor.py:650} INFO - DAG(s) dict_keys(['Test_postgres2es']) retrieved from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:49:35.509+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:49:35.509+0000] {dag.py:2429} INFO - Sync 1 DAGs
+[2023-09-26T07:49:35.525+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:49:35.524+0000] {dag.py:2981} INFO - Setting next_dagrun for Test_postgres2es to 2023-09-26T00:00:00+00:00, run_after=2023-09-27T00:00:00+00:00
+[2023-09-26T07:49:35.532+0000] {processor.py:161} INFO - Processing /opt/airflow/dags/pg2es.py took 0.810 seconds
+[2023-09-26T07:50:05.858+0000] {processor.py:153} INFO - Started process (PID=1196) to work on /opt/airflow/dags/pg2es.py
+[2023-09-26T07:50:05.861+0000] {processor.py:640} INFO - Processing file /opt/airflow/dags/pg2es.py for tasks to queue
+[2023-09-26T07:50:05.863+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:50:05.863+0000] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:50:06.478+0000] {processor.py:650} INFO - DAG(s) dict_keys(['Test_postgres2es']) retrieved from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:50:06.521+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:50:06.520+0000] {dag.py:2429} INFO - Sync 1 DAGs
+[2023-09-26T07:50:06.537+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:50:06.537+0000] {dag.py:2981} INFO - Setting next_dagrun for Test_postgres2es to 2023-09-26T00:00:00+00:00, run_after=2023-09-27T00:00:00+00:00
+[2023-09-26T07:50:06.544+0000] {processor.py:161} INFO - Processing /opt/airflow/dags/pg2es.py took 0.701 seconds
+[2023-09-26T07:50:36.822+0000] {processor.py:153} INFO - Started process (PID=1208) to work on /opt/airflow/dags/pg2es.py
+[2023-09-26T07:50:36.824+0000] {processor.py:640} INFO - Processing file /opt/airflow/dags/pg2es.py for tasks to queue
+[2023-09-26T07:50:36.825+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:50:36.825+0000] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:50:37.570+0000] {processor.py:650} INFO - DAG(s) dict_keys(['Test_postgres2es']) retrieved from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:50:37.616+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:50:37.615+0000] {dag.py:2429} INFO - Sync 1 DAGs
+[2023-09-26T07:50:37.632+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:50:37.632+0000] {dag.py:2981} INFO - Setting next_dagrun for Test_postgres2es to 2023-09-26T00:00:00+00:00, run_after=2023-09-27T00:00:00+00:00
+[2023-09-26T07:50:37.648+0000] {processor.py:161} INFO - Processing /opt/airflow/dags/pg2es.py took 0.831 seconds
+[2023-09-26T07:51:07.953+0000] {processor.py:153} INFO - Started process (PID=1220) to work on /opt/airflow/dags/pg2es.py
+[2023-09-26T07:51:07.956+0000] {processor.py:640} INFO - Processing file /opt/airflow/dags/pg2es.py for tasks to queue
+[2023-09-26T07:51:07.957+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:51:07.957+0000] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:51:08.560+0000] {processor.py:650} INFO - DAG(s) dict_keys(['Test_postgres2es']) retrieved from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:51:08.624+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:51:08.624+0000] {dag.py:2429} INFO - Sync 1 DAGs
+[2023-09-26T07:51:08.639+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:51:08.639+0000] {dag.py:2981} INFO - Setting next_dagrun for Test_postgres2es to 2023-09-26T00:00:00+00:00, run_after=2023-09-27T00:00:00+00:00
+[2023-09-26T07:51:08.646+0000] {processor.py:161} INFO - Processing /opt/airflow/dags/pg2es.py took 0.701 seconds
+[2023-09-26T07:51:22.836+0000] {processor.py:153} INFO - Started process (PID=1231) to work on /opt/airflow/dags/pg2es.py
+[2023-09-26T07:51:22.838+0000] {processor.py:640} INFO - Processing file /opt/airflow/dags/pg2es.py for tasks to queue
+[2023-09-26T07:51:22.840+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:51:22.840+0000] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:51:23.465+0000] {processor.py:650} INFO - DAG(s) dict_keys(['Test_postgres2es']) retrieved from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:51:23.507+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:51:23.507+0000] {dag.py:2429} INFO - Sync 1 DAGs
+[2023-09-26T07:51:23.520+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:51:23.520+0000] {dag.py:2981} INFO - Setting next_dagrun for Test_postgres2es to 2023-09-26T00:00:00+00:00, run_after=2023-09-27T00:00:00+00:00
+[2023-09-26T07:51:23.528+0000] {processor.py:161} INFO - Processing /opt/airflow/dags/pg2es.py took 0.699 seconds
+[2023-09-26T07:51:53.853+0000] {processor.py:153} INFO - Started process (PID=1243) to work on /opt/airflow/dags/pg2es.py
+[2023-09-26T07:51:53.856+0000] {processor.py:640} INFO - Processing file /opt/airflow/dags/pg2es.py for tasks to queue
+[2023-09-26T07:51:53.857+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:51:53.857+0000] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:51:54.348+0000] {processor.py:650} INFO - DAG(s) dict_keys(['Test_postgres2es']) retrieved from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:51:54.374+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:51:54.373+0000] {dag.py:2429} INFO - Sync 1 DAGs
+[2023-09-26T07:51:54.399+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:51:54.399+0000] {dag.py:2981} INFO - Setting next_dagrun for Test_postgres2es to 2023-09-26T00:00:00+00:00, run_after=2023-09-27T00:00:00+00:00
+[2023-09-26T07:51:54.408+0000] {processor.py:161} INFO - Processing /opt/airflow/dags/pg2es.py took 0.566 seconds
+[2023-09-26T07:52:24.722+0000] {processor.py:153} INFO - Started process (PID=1255) to work on /opt/airflow/dags/pg2es.py
+[2023-09-26T07:52:24.731+0000] {processor.py:640} INFO - Processing file /opt/airflow/dags/pg2es.py for tasks to queue
+[2023-09-26T07:52:24.736+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:52:24.736+0000] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:52:25.202+0000] {processor.py:650} INFO - DAG(s) dict_keys(['Test_postgres2es']) retrieved from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:52:25.231+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:52:25.231+0000] {dag.py:2429} INFO - Sync 1 DAGs
+[2023-09-26T07:52:25.250+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:52:25.250+0000] {dag.py:2981} INFO - Setting next_dagrun for Test_postgres2es to 2023-09-26T00:00:00+00:00, run_after=2023-09-27T00:00:00+00:00
+[2023-09-26T07:52:25.259+0000] {processor.py:161} INFO - Processing /opt/airflow/dags/pg2es.py took 0.547 seconds
+[2023-09-26T07:52:55.921+0000] {processor.py:153} INFO - Started process (PID=1267) to work on /opt/airflow/dags/pg2es.py
+[2023-09-26T07:52:55.924+0000] {processor.py:640} INFO - Processing file /opt/airflow/dags/pg2es.py for tasks to queue
+[2023-09-26T07:52:55.925+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:52:55.925+0000] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:52:56.400+0000] {processor.py:650} INFO - DAG(s) dict_keys(['Test_postgres2es']) retrieved from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:52:56.417+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:52:56.417+0000] {dag.py:2429} INFO - Sync 1 DAGs
+[2023-09-26T07:52:56.429+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:52:56.429+0000] {dag.py:2981} INFO - Setting next_dagrun for Test_postgres2es to 2023-09-26T00:00:00+00:00, run_after=2023-09-27T00:00:00+00:00
+[2023-09-26T07:52:56.435+0000] {processor.py:161} INFO - Processing /opt/airflow/dags/pg2es.py took 0.519 seconds
+[2023-09-26T07:53:26.776+0000] {processor.py:153} INFO - Started process (PID=1279) to work on /opt/airflow/dags/pg2es.py
+[2023-09-26T07:53:26.778+0000] {processor.py:640} INFO - Processing file /opt/airflow/dags/pg2es.py for tasks to queue
+[2023-09-26T07:53:26.780+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:53:26.780+0000] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:53:27.283+0000] {processor.py:650} INFO - DAG(s) dict_keys(['Test_postgres2es']) retrieved from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:53:27.304+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:53:27.304+0000] {dag.py:2429} INFO - Sync 1 DAGs
+[2023-09-26T07:53:27.316+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:53:27.316+0000] {dag.py:2981} INFO - Setting next_dagrun for Test_postgres2es to 2023-09-26T00:00:00+00:00, run_after=2023-09-27T00:00:00+00:00
+[2023-09-26T07:53:27.322+0000] {processor.py:161} INFO - Processing /opt/airflow/dags/pg2es.py took 0.554 seconds
+[2023-09-26T07:53:57.555+0000] {processor.py:153} INFO - Started process (PID=1291) to work on /opt/airflow/dags/pg2es.py
+[2023-09-26T07:53:57.557+0000] {processor.py:640} INFO - Processing file /opt/airflow/dags/pg2es.py for tasks to queue
+[2023-09-26T07:53:57.558+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:53:57.558+0000] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:53:57.983+0000] {processor.py:650} INFO - DAG(s) dict_keys(['Test_postgres2es']) retrieved from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:53:58.016+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:53:58.016+0000] {dag.py:2429} INFO - Sync 1 DAGs
+[2023-09-26T07:53:58.029+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:53:58.029+0000] {dag.py:2981} INFO - Setting next_dagrun for Test_postgres2es to 2023-09-26T00:00:00+00:00, run_after=2023-09-27T00:00:00+00:00
+[2023-09-26T07:53:58.035+0000] {processor.py:161} INFO - Processing /opt/airflow/dags/pg2es.py took 0.489 seconds
+[2023-09-26T07:54:28.231+0000] {processor.py:153} INFO - Started process (PID=1303) to work on /opt/airflow/dags/pg2es.py
+[2023-09-26T07:54:28.233+0000] {processor.py:640} INFO - Processing file /opt/airflow/dags/pg2es.py for tasks to queue
+[2023-09-26T07:54:28.234+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:54:28.234+0000] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:54:28.720+0000] {processor.py:650} INFO - DAG(s) dict_keys(['Test_postgres2es']) retrieved from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:54:28.759+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:54:28.759+0000] {dag.py:2429} INFO - Sync 1 DAGs
+[2023-09-26T07:54:28.772+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:54:28.772+0000] {dag.py:2981} INFO - Setting next_dagrun for Test_postgres2es to 2023-09-26T00:00:00+00:00, run_after=2023-09-27T00:00:00+00:00
+[2023-09-26T07:54:28.778+0000] {processor.py:161} INFO - Processing /opt/airflow/dags/pg2es.py took 0.554 seconds
+[2023-09-26T07:54:59.025+0000] {processor.py:153} INFO - Started process (PID=1315) to work on /opt/airflow/dags/pg2es.py
+[2023-09-26T07:54:59.027+0000] {processor.py:640} INFO - Processing file /opt/airflow/dags/pg2es.py for tasks to queue
+[2023-09-26T07:54:59.028+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:54:59.028+0000] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:54:59.475+0000] {processor.py:650} INFO - DAG(s) dict_keys(['Test_postgres2es']) retrieved from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:54:59.496+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:54:59.496+0000] {dag.py:2429} INFO - Sync 1 DAGs
+[2023-09-26T07:54:59.510+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:54:59.510+0000] {dag.py:2981} INFO - Setting next_dagrun for Test_postgres2es to 2023-09-26T00:00:00+00:00, run_after=2023-09-27T00:00:00+00:00
+[2023-09-26T07:54:59.518+0000] {processor.py:161} INFO - Processing /opt/airflow/dags/pg2es.py took 0.500 seconds
+[2023-09-26T07:55:29.735+0000] {processor.py:153} INFO - Started process (PID=1327) to work on /opt/airflow/dags/pg2es.py
+[2023-09-26T07:55:29.739+0000] {processor.py:640} INFO - Processing file /opt/airflow/dags/pg2es.py for tasks to queue
+[2023-09-26T07:55:29.741+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:55:29.741+0000] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:55:30.191+0000] {processor.py:650} INFO - DAG(s) dict_keys(['Test_postgres2es']) retrieved from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:55:30.216+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:55:30.215+0000] {dag.py:2429} INFO - Sync 1 DAGs
+[2023-09-26T07:55:30.229+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:55:30.229+0000] {dag.py:2981} INFO - Setting next_dagrun for Test_postgres2es to 2023-09-26T00:00:00+00:00, run_after=2023-09-27T00:00:00+00:00
+[2023-09-26T07:55:30.238+0000] {processor.py:161} INFO - Processing /opt/airflow/dags/pg2es.py took 0.515 seconds
+[2023-09-26T07:56:00.472+0000] {processor.py:153} INFO - Started process (PID=1339) to work on /opt/airflow/dags/pg2es.py
+[2023-09-26T07:56:00.475+0000] {processor.py:640} INFO - Processing file /opt/airflow/dags/pg2es.py for tasks to queue
+[2023-09-26T07:56:00.476+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:56:00.476+0000] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:56:00.892+0000] {processor.py:650} INFO - DAG(s) dict_keys(['Test_postgres2es']) retrieved from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:56:00.912+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:56:00.912+0000] {dag.py:2429} INFO - Sync 1 DAGs
+[2023-09-26T07:56:00.924+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:56:00.924+0000] {dag.py:2981} INFO - Setting next_dagrun for Test_postgres2es to 2023-09-26T00:00:00+00:00, run_after=2023-09-27T00:00:00+00:00
+[2023-09-26T07:56:00.931+0000] {processor.py:161} INFO - Processing /opt/airflow/dags/pg2es.py took 0.466 seconds
+[2023-09-26T07:56:31.201+0000] {processor.py:153} INFO - Started process (PID=1351) to work on /opt/airflow/dags/pg2es.py
+[2023-09-26T07:56:31.203+0000] {processor.py:640} INFO - Processing file /opt/airflow/dags/pg2es.py for tasks to queue
+[2023-09-26T07:56:31.204+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:56:31.204+0000] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:56:31.660+0000] {processor.py:650} INFO - DAG(s) dict_keys(['Test_postgres2es']) retrieved from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:56:31.678+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:56:31.678+0000] {dag.py:2429} INFO - Sync 1 DAGs
+[2023-09-26T07:56:31.690+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:56:31.690+0000] {dag.py:2981} INFO - Setting next_dagrun for Test_postgres2es to 2023-09-26T00:00:00+00:00, run_after=2023-09-27T00:00:00+00:00
+[2023-09-26T07:56:31.697+0000] {processor.py:161} INFO - Processing /opt/airflow/dags/pg2es.py took 0.511 seconds
+[2023-09-26T07:57:01.965+0000] {processor.py:153} INFO - Started process (PID=1363) to work on /opt/airflow/dags/pg2es.py
+[2023-09-26T07:57:01.968+0000] {processor.py:640} INFO - Processing file /opt/airflow/dags/pg2es.py for tasks to queue
+[2023-09-26T07:57:01.970+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:57:01.969+0000] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:57:02.491+0000] {processor.py:650} INFO - DAG(s) dict_keys(['Test_postgres2es']) retrieved from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:57:02.520+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:57:02.520+0000] {dag.py:2429} INFO - Sync 1 DAGs
+[2023-09-26T07:57:02.535+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:57:02.535+0000] {dag.py:2981} INFO - Setting next_dagrun for Test_postgres2es to 2023-09-26T00:00:00+00:00, run_after=2023-09-27T00:00:00+00:00
+[2023-09-26T07:57:02.543+0000] {processor.py:161} INFO - Processing /opt/airflow/dags/pg2es.py took 0.594 seconds
+[2023-09-26T07:57:32.756+0000] {processor.py:153} INFO - Started process (PID=1375) to work on /opt/airflow/dags/pg2es.py
+[2023-09-26T07:57:32.759+0000] {processor.py:640} INFO - Processing file /opt/airflow/dags/pg2es.py for tasks to queue
+[2023-09-26T07:57:32.760+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:57:32.760+0000] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:57:33.285+0000] {processor.py:650} INFO - DAG(s) dict_keys(['Test_postgres2es']) retrieved from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:57:33.309+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:57:33.308+0000] {dag.py:2429} INFO - Sync 1 DAGs
+[2023-09-26T07:57:33.327+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:57:33.327+0000] {dag.py:2981} INFO - Setting next_dagrun for Test_postgres2es to 2023-09-26T00:00:00+00:00, run_after=2023-09-27T00:00:00+00:00
+[2023-09-26T07:57:33.336+0000] {processor.py:161} INFO - Processing /opt/airflow/dags/pg2es.py took 0.585 seconds
+[2023-09-26T07:58:03.649+0000] {processor.py:153} INFO - Started process (PID=1387) to work on /opt/airflow/dags/pg2es.py
+[2023-09-26T07:58:03.652+0000] {processor.py:640} INFO - Processing file /opt/airflow/dags/pg2es.py for tasks to queue
+[2023-09-26T07:58:03.653+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:58:03.653+0000] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:58:04.132+0000] {processor.py:650} INFO - DAG(s) dict_keys(['Test_postgres2es']) retrieved from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:58:04.157+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:58:04.156+0000] {dag.py:2429} INFO - Sync 1 DAGs
+[2023-09-26T07:58:04.179+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:58:04.179+0000] {dag.py:2981} INFO - Setting next_dagrun for Test_postgres2es to 2023-09-26T00:00:00+00:00, run_after=2023-09-27T00:00:00+00:00
+[2023-09-26T07:58:04.185+0000] {processor.py:161} INFO - Processing /opt/airflow/dags/pg2es.py took 0.543 seconds
+[2023-09-26T07:58:34.684+0000] {processor.py:153} INFO - Started process (PID=1399) to work on /opt/airflow/dags/pg2es.py
+[2023-09-26T07:58:34.686+0000] {processor.py:640} INFO - Processing file /opt/airflow/dags/pg2es.py for tasks to queue
+[2023-09-26T07:58:34.687+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:58:34.687+0000] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:58:35.209+0000] {processor.py:650} INFO - DAG(s) dict_keys(['Test_postgres2es']) retrieved from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:58:35.231+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:58:35.231+0000] {dag.py:2429} INFO - Sync 1 DAGs
+[2023-09-26T07:58:35.247+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:58:35.247+0000] {dag.py:2981} INFO - Setting next_dagrun for Test_postgres2es to 2023-09-26T00:00:00+00:00, run_after=2023-09-27T00:00:00+00:00
+[2023-09-26T07:58:35.254+0000] {processor.py:161} INFO - Processing /opt/airflow/dags/pg2es.py took 0.575 seconds
+[2023-09-26T07:59:05.366+0000] {processor.py:153} INFO - Started process (PID=1411) to work on /opt/airflow/dags/pg2es.py
+[2023-09-26T07:59:05.368+0000] {processor.py:640} INFO - Processing file /opt/airflow/dags/pg2es.py for tasks to queue
+[2023-09-26T07:59:05.369+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:59:05.368+0000] {dagbag.py:508} INFO - Filling up the DagBag from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:59:05.812+0000] {processor.py:650} INFO - DAG(s) dict_keys(['Test_postgres2es']) retrieved from /opt/airflow/dags/pg2es.py
+[2023-09-26T07:59:05.837+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:59:05.837+0000] {dag.py:2429} INFO - Sync 1 DAGs
+[2023-09-26T07:59:05.851+0000] {logging_mixin.py:115} INFO - [2023-09-26T07:59:05.851+0000] {dag.py:2981} INFO - Setting next_dagrun for Test_postgres2es to 2023-09-26T00:00:00+00:00, run_after=2023-09-27T00:00:00+00:00
+[2023-09-26T07:59:05.857+0000] {processor.py:161} INFO - Processing /opt/airflow/dags/pg2es.py took 0.498 seconds

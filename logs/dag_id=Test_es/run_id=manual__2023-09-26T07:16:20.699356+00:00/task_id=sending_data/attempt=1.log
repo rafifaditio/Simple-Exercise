@@ -1,0 +1,25 @@
+[2023-09-26T07:16:25.946+0000] {taskinstance.py:1171} INFO - Dependencies all met for <TaskInstance: Test_es.sending_data manual__2023-09-26T07:16:20.699356+00:00 [queued]>
+[2023-09-26T07:16:25.952+0000] {taskinstance.py:1171} INFO - Dependencies all met for <TaskInstance: Test_es.sending_data manual__2023-09-26T07:16:20.699356+00:00 [queued]>
+[2023-09-26T07:16:25.952+0000] {taskinstance.py:1368} INFO - 
+--------------------------------------------------------------------------------
+[2023-09-26T07:16:25.952+0000] {taskinstance.py:1369} INFO - Starting attempt 1 of 1
+[2023-09-26T07:16:25.953+0000] {taskinstance.py:1370} INFO - 
+--------------------------------------------------------------------------------
+[2023-09-26T07:16:25.960+0000] {taskinstance.py:1389} INFO - Executing <Task(PythonOperator): sending_data> on 2023-09-26 07:16:20.699356+00:00
+[2023-09-26T07:16:25.965+0000] {standard_task_runner.py:52} INFO - Started process 478 to run task
+[2023-09-26T07:16:25.968+0000] {standard_task_runner.py:79} INFO - Running: ['***', 'tasks', 'run', 'Test_es', 'sending_data', 'manual__2023-09-26T07:16:20.699356+00:00', '--job-id', '8', '--raw', '--subdir', 'DAGS_FOLDER/test_es.py', '--cfg-path', '/tmp/tmpo_1lmrc1', '--error-file', '/tmp/tmpn_ye19ak']
+[2023-09-26T07:16:25.970+0000] {standard_task_runner.py:80} INFO - Job 8: Subtask sending_data
+[2023-09-26T07:16:26.019+0000] {task_command.py:371} INFO - Running <TaskInstance: Test_es.sending_data manual__2023-09-26T07:16:20.699356+00:00 [running]> on host 36fa8430ec1b
+[2023-09-26T07:16:26.064+0000] {taskinstance.py:1583} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=Rafif
+AIRFLOW_CTX_DAG_ID=Test_es
+AIRFLOW_CTX_TASK_ID=sending_data
+AIRFLOW_CTX_EXECUTION_DATE=2023-09-26T07:16:20.699356+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2023-09-26T07:16:20.699356+00:00
+[2023-09-26T07:16:26.084+0000] {base.py:271} INFO - POST http://elasticsearch:9200/trial/_doc [status:201 request:0.017s]
+[2023-09-26T07:16:26.085+0000] {logging_mixin.py:115} INFO - {'_index': 'trial', '_type': '_doc', '_id': 'u_5Y0IoBhhoWFhVeqZRZ', '_version': 1, 'result': 'created', '_shards': {'total': 2, 'successful': 1, 'failed': 0}, '_seq_no': 1, '_primary_term': 1}
+[2023-09-26T07:16:26.085+0000] {python.py:173} INFO - Done. Returned value was: None
+[2023-09-26T07:16:26.097+0000] {taskinstance.py:1412} INFO - Marking task as SUCCESS. dag_id=Test_es, task_id=sending_data, execution_date=20230926T071620, start_date=20230926T071625, end_date=20230926T071626
+[2023-09-26T07:16:26.141+0000] {local_task_job.py:156} INFO - Task exited with return code 0
+[2023-09-26T07:16:26.166+0000] {local_task_job.py:279} INFO - 1 downstream tasks scheduled from follow-on schedule check
